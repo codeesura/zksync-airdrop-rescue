@@ -1,0 +1,246 @@
+{
+  "0x3BB3b6461a5c1Cdca957EcdC72FD3243eBF338e9": [
+    {
+      "userId": "0x3BB3b6461a5c1Cdca957EcdC72FD3243eBF338e9",
+      "tokenAmount": "1417000000000000000000",
+      "criteria": [
+        {
+          "criteriaId": "contract_interactions",
+          "description": "Interacted with 10 smart contracts",
+          "criteriaType": "zksync"
+        },
+        {
+          "criteriaId": "defi_liquidity_provider",
+          "description": "Deposited liquidity into DeFi protocols",
+          "criteriaType": "zksync"
+        },
+        {
+          "criteriaId": "libertas_omnibus_holder",
+          "description": "Holds a Libertas Omnibus NFT",
+          "criteriaType": "zksync"
+        }
+      ],
+      "airdrop": {
+        "id": "f66d93c9-2681-4428-9500-e19fe193b973",
+        "contractAddress": "0x66Fd4FC8FA52c9bec2AbA368047A0b27e24ecfe4",
+        "associationStopsAt": "2024-06-14T13:00:00.000Z",
+        "claimStartsAt": "2024-06-17T07:00:00.000Z",
+        "finalized": true
+      },
+      "associatedAddress": null,
+      "merkleIndex": "169804",
+      "merkleProof": [
+        "0x418b3773f8537d5a95a243c1c00e2f56bed41691837b5edf6cb7293720cb4325",
+        "0xc2f94c26d2c59d1a041370f15b40947193f50a90f5c9cdaddf22444582aa26b2",
+        "0xfb65592cfb56d3a2e0c36600b37bda9773b0f452d7c77500be05deb73f2f466c",
+        "0xda01094a1aba551d7a90f56086329a1975b1f104d6de49be908f71fd54843b36",
+        "0x2826ed9e9bf683c8153056876bbb857632d8ce278c8e9683cb856879f90c7dae",
+        "0x46a249c524774f0ecf03c8e083a3dd284a74f7964250f73744103b09e710341c",
+        "0x592e83a0fbe3c31dde35b79b7ee149abee10238ef55eb71c0ac297a25e7d71ae",
+        "0xc0dfb67763c3a7589e411723e7975995d5b61155093be3d8d0ee3d29887e9a68",
+        "0x7c6e4d71e832ff8c8a4cad08d467b393684744696275fce93b0e409d8273aa00",
+        "0xb1b656f80cb13bc21dc1542cc0b282b2573c7040c8782c96d83d80a3524193d9",
+        "0xd1d98296e617ee5e9eda9757378e6ec1665ad732563c089cd354abe161cfff24",
+        "0xe10574a7816e65698e2b89c0ad7ac4fa6aea064ff05f096557efb10999f86616",
+        "0x76b3b99c1005dba732f155de918c73de932531cc2d7e775d8285121fa480635b",
+        "0x490b10d0c35e95c06b7db3457d76c4d0d6d725b0b53c5fb777b497d26e4b451e",
+        "0xc6c0d68866a477290c03cb23056bf984f6752ce44cb30169119af8e688449a60",
+        "0x18a83c79bb6ecee8d684e79d1d16f47f4f260d380a90999907b110404c9a502c",
+        "0xd057d9bc8ed343edacad6541328d283cf0af83546c35f058a47e43495c3cf8c6",
+        "0x640009ff94289cc311064e17d2b4b8132ee8d866e4e8067c4b0fbf14b3226342",
+        "0x991068aad433c8990d4d8b9564af8e849a9285e2db7d9d3f20773673b4494d83",
+        "0x74e8aa65670c322311dbc3a190daeba1b30b221ec0a2731cda27785942070bd9"
+      ]
+    }
+  ],
+  "0xa5Fb58d315CA1ff263e252A6560372c58cD420E0": [
+    {
+      "userId": "0xa5Fb58d315CA1ff263e252A6560372c58cD420E0",
+      "tokenAmount": "3609000000000000000000",
+      "criteria": [
+        {
+          "criteriaId": "contract_interactions",
+          "description": "Interacted with 10 smart contracts",
+          "criteriaType": "zksync"
+        },
+        {
+          "criteriaId": "defi_liquidity_provider",
+          "description": "Deposited liquidity into DeFi protocols",
+          "criteriaType": "zksync"
+        },
+        {
+          "criteriaId": "heavy_token_trader",
+          "description": "Traded 10 different ERC20 tokens",
+          "criteriaType": "zksync"
+        },
+        {
+          "criteriaId": "paymaster_activity",
+          "description": "Used paymaster for 5 transactions",
+          "criteriaType": "zksync"
+        }
+      ],
+      "airdrop": {
+        "id": "f66d93c9-2681-4428-9500-e19fe193b973",
+        "contractAddress": "0x66Fd4FC8FA52c9bec2AbA368047A0b27e24ecfe4",
+        "associationStopsAt": "2024-06-14T13:00:00.000Z",
+        "claimStartsAt": "2024-06-17T07:00:00.000Z",
+        "finalized": true
+      },
+      "associatedAddress": null,
+      "merkleIndex": "451679",
+      "merkleProof": [
+        "0x898f3c5dc09c7e1e5f571dfbd8645ca40170cce66dbaef2b112641c7f5a352a3",
+        "0xe1e640a65d7c7a8ea1d8917783ef33a572b5889893759224f1b0050beb47d3ad",
+        "0x93114ef66cf5f3008ccf5a35e250b9a9b94eeddeb0ec0b517a70689a5f8541a5",
+        "0xb022a4d3bbfbc8c705b66d1e477855fa3b6223cd31a0f07ce5b299d00faa57d6",
+        "0xc70d47baf8415c076331d837f4aa36cb836eb64c71745de6e0a6a796c319845b",
+        "0xec0c39294839a519158870c9422440f4bba9c52d35a9e4589362ba26038bfaae",
+        "0x9af9cbbc426a79644e55ecb861b1be3717f1a4105fea1891900cf315dd2a8bd9",
+        "0xc9a44196b8a9c8fd0471cfe174bd9ef2a1862f55c6127e604c19b089fb8dd730",
+        "0x1085a6082cb20202ccc892baee74dc9d536c0b77a4fe917d5f929b8af54c54b0",
+        "0xf8a2bfd93402b5eaee781057b1948a532bf4fd3b9832fe85c6f6a0d40a5241d6",
+        "0x836b25f5ecc93117cc291a0c9930d985d64e5d3273205e0b66840358eaa63de4",
+        "0x189993560857f9916aefc78cd845bf6edf707e5e23652b1c0420aac77079c50c",
+        "0xf0c960aadc58a0467b89e50a9807a18d6b3eec8b7b95649991e45c34a1c76dd1",
+        "0x906accde5cd5f827fa33a15128d8b68987d5d7dd695df7b02225a83b36922e5a",
+        "0x22d7d545c5bfe448b3dedb5c147c7fd2ad9ae093aa52669f36b20dadb97a8030",
+        "0xbd9a87c049b11f80c94b35c945f549f9e1b87a4888e2834cdb9991b471fb7377",
+        "0x4d87bfed4b558a7e6909cef5bba0a609d43170c02854d55c51dd26ec653d35e0",
+        "0x4ea31e922457d78d205ee932e1b42e4dbf98499f31e84c2c21d8e6e4b6902723",
+        "0x226cff90d6b82409d4714cbba720aa0c11330c8763ff07093c8cf05f5034b64e",
+        "0x74e8aa65670c322311dbc3a190daeba1b30b221ec0a2731cda27785942070bd9"
+      ]
+    }
+  ],
+  "0xe9d4199b788AFCD51B17908855CDCd184AdDBe7c": [
+    {
+      "userId": "0xe9d4199b788AFCD51B17908855CDCd184AdDBe7c",
+      "tokenAmount": "1110000000000000000000",
+      "criteria": [
+        {
+          "criteriaId": "contract_interactions",
+          "description": "Interacted with 10 smart contracts",
+          "criteriaType": "zksync"
+        },
+        {
+          "criteriaId": "defi_liquidity_provider",
+          "description": "Deposited liquidity into DeFi protocols",
+          "criteriaType": "zksync"
+        },
+        {
+          "criteriaId": "heavy_token_trader",
+          "description": "Traded 10 different ERC20 tokens",
+          "criteriaType": "zksync"
+        },
+        {
+          "criteriaId": "libertas_omnibus_holder",
+          "description": "Holds a Libertas Omnibus NFT",
+          "criteriaType": "zksync"
+        },
+        {
+          "criteriaId": "paymaster_activity",
+          "description": "Used paymaster for 5 transactions",
+          "criteriaType": "zksync"
+        }
+      ],
+      "airdrop": {
+        "id": "f66d93c9-2681-4428-9500-e19fe193b973",
+        "contractAddress": "0x66Fd4FC8FA52c9bec2AbA368047A0b27e24ecfe4",
+        "associationStopsAt": "2024-06-14T13:00:00.000Z",
+        "claimStartsAt": "2024-06-17T07:00:00.000Z",
+        "finalized": true
+      },
+      "associatedAddress": null,
+      "merkleIndex": "631802",
+      "merkleProof": [
+        "0x155d9b95dffb0e84fe0e9fe9b8dd459b7cfc965cdc7217c95c3e0f1483d7b97b",
+        "0xfefa74d7843386eb557850c17634578ab534ffa016ffba04bdc6823abf3f21c7",
+        "0x75175aa3b33a9c6ff58d5bd2a54503bc1191bc20e4d79b4932e7f175e73e8533",
+        "0xdf8eced4ee13bd59208d613f19c550cad986f7fc85b8856d0ab3763c12ee11d4",
+        "0xdc09ca2726973498f1306142ae05f5fb083a037e8cf9404a4b86783c3b576acf",
+        "0xaef8b4aa148840b8f6ac98e4b88c2928f4f8ef8ce090591345dfb21d5402fbc2",
+        "0x94c761daebcf59c8de047a1b08cd1604451e77c0a5fca24cb2277612c3ad45b4",
+        "0x8d3a92c7553ffd86127519a1aad137cfdeedb5315167b6eb9ad7b925176e7173",
+        "0xc98fb274cbbb20ee0b0800586594814b7540e82ec8bd5db2d1a6875e0c7cc161",
+        "0xf23afbbb794e01e617a856429b28060324fcf02c916f96d7af9530858312ce3a",
+        "0x3b9562c0d2d674e71a18b3f7c7064c5282a5dd3ccd16aecd0f8c202470316bae",
+        "0xba1560ab1a976806065215ee0d8c5c1d598215470937991a678db7ef2fc0c785",
+        "0x988ab3f091a111f5003299b3e7362218263db2b2d6708b6fd691322505b5dcff",
+        "0x8c74527f67360331a5237da571871a2b2227209854a74e805c1602d492e60bf7",
+        "0x4927202b3c205e3fa631070ae08042cd814c8af814a47813ffbf7255ae3e6ea5",
+        "0xcb7c49d83316fd4c61c297dfd4835179f8b4562097f1d855c111c03088e4ef89",
+        "0xf79d372f8df651b681ec0df3cacc4c206a40c365b48fafe82fb646bebfc133eb",
+        "0x8ae7a218ae07ef35213ec748accac683f5cc09a75783bc13e003703765742c6a",
+        "0x991068aad433c8990d4d8b9564af8e849a9285e2db7d9d3f20773673b4494d83",
+        "0x74e8aa65670c322311dbc3a190daeba1b30b221ec0a2731cda27785942070bd9"
+      ]
+    }
+  ],
+  "0x4C0c1dD1180FC39C265DECbF28230bB74248AD2c": [
+    {
+      "userId": "0x4C0c1dD1180FC39C265DECbF28230bB74248AD2c",
+      "tokenAmount": "1356000000000000000000",
+      "criteria": [
+        {
+          "criteriaId": "contract_interactions",
+          "description": "Interacted with 10 smart contracts",
+          "criteriaType": "zksync"
+        },
+        {
+          "criteriaId": "defi_liquidity_provider",
+          "description": "Deposited liquidity into DeFi protocols",
+          "criteriaType": "zksync"
+        },
+        {
+          "criteriaId": "heavy_token_trader",
+          "description": "Traded 10 different ERC20 tokens",
+          "criteriaType": "zksync"
+        },
+        {
+          "criteriaId": "libertas_omnibus_holder",
+          "description": "Holds a Libertas Omnibus NFT",
+          "criteriaType": "zksync"
+        },
+        {
+          "criteriaId": "paymaster_activity",
+          "description": "Used paymaster for 5 transactions",
+          "criteriaType": "zksync"
+        }
+      ],
+      "airdrop": {
+        "id": "f66d93c9-2681-4428-9500-e19fe193b973",
+        "contractAddress": "0x66Fd4FC8FA52c9bec2AbA368047A0b27e24ecfe4",
+        "associationStopsAt": "2024-06-14T13:00:00.000Z",
+        "claimStartsAt": "2024-06-17T07:00:00.000Z",
+        "finalized": true
+      },
+      "associatedAddress": null,
+      "merkleIndex": "213605",
+      "merkleProof": [
+        "0xe3ff5ed8ed74170545c005109ee270c2312c4cac912fe9e68d08bfc2a072e339",
+        "0x8e3b9aa4899d7c7353bb1263ec10e9c5b50e8ed74981c1d14675adc2835e7dff",
+        "0x860c172b99f40803dc5296218899da62dfbc6bbc7b8d488be4be22e2c5795342",
+        "0x01f1c4b0a94d08c9eb83a521ceffbd85c8a252c31a799f151844222562e3a5cf",
+        "0x847bea03c8f6c5a5c34e3588d9fb0d9a4995334ed52f39f8bb273bf90b4c5319",
+        "0x25af676eab36d96be8c70a679dca4949daec7243c6645ff5872a38cbd907c8b1",
+        "0x2d17663eb79f28d14e29b8d06969ff5890023e76e67b2640cd23f5db722c2c53",
+        "0x2ee81fa571e0074491911f51eb5e422d3075b8d320bd090fea5fad342e6ab7aa",
+        "0xc37fceba0795f2c47583ce9033d7df399513a1d520879035448408b24b06fc73",
+        "0x7056da7d1aef3a98f15f845d4348c2de579f4fe4b234b08db74ff697248b12f7",
+        "0x828dd3d7453df2f58f30c6172790b90bc40beb9f9c94bf3963716ac1cb6f1836",
+        "0xbe9ddcfe2949e2ff3fec5d94fbd4af2d3126005ffa507b5b018261954c45905c",
+        "0x0658b275f6ef57c30a90f6d20e04e8be025cea713303381b76fcbd3283d740f4",
+        "0x73eddb435a1e6c0d05a666b60acf9e58477b6402fe5f3157fdc27d1461de70d0",
+        "0xfb1a3323e6c29d0f7b6fafc04b6adb2707c206c39e31635bd0cc3320fa799152",
+        "0x151d293f7cdc52d80e26f45e86a21d01d7bb9c7244682e397a60ed29fb3c5f75",
+        "0x991aaccd914832e925de5ebb6198427a149e13f146be232484cd44bedc1db2ec",
+        "0x60129e33376f24766c7de887c815c0b36a385d82de2f93a0ba2515ab1eb80588",
+        "0xf30b9e1d3ccc867b00fd1b4c8b66dbdbec17962a94b65b7751f783ec0789ef66"
+      ],
+      "claimStatus": {
+        "status": "success",
+        "txHash": null
+      }
+    }
+  ]
+}

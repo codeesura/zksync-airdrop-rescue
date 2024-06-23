@@ -1,0 +1,31 @@
+[package]
+name = "zksync-airdrop-rescue"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Alloy dependencies
+alloy-transport = { git = "https://github.com/alloy-rs/alloy", rev = "5940871", default-features = false }
+alloy-sol-types = { version = "0.7.1", features = ["json"] }
+alloy-provider = { git = "https://github.com/alloy-rs/alloy", rev = "5940871", features = ["reqwest"] }
+alloy-primitives = { version = "0.7.1", features = ["getrandom"] }
+alloy-rpc-types = { git = "https://github.com/alloy-rs/alloy", rev = "5940871", default-features = false }
+alloy-signer-wallet = { git = "https://github.com/alloy-rs/alloy", rev = "5940871", default-features = false }
+alloy-network = { git = "https://github.com/alloy-rs/alloy", rev = "5940871", default-features = false }
+
+# Miscellaneous dependencies
+reqwest = { version = "0.12.5", features = ["json"] }
+eyre = "0.6.12"
+futures = "0.3"
+hex = "0.4"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+tokio = { version = "1", features = ["full"] }
+rlp = "0.5"
+
+# dotenv
+dotenv = "0.15.0"
+
+# zksync-era lib
+zksync_types = { git = "https://github.com/matter-labs/zksync-era", rev = "4c18755876a42ee81840cadb365b3040194d0ae3" }
+zksync_crypto_primitives  = { git = "https://github.com/matter-labs/zksync-era",  rev = "4c18755876a42ee81840cadb365b3040194d0ae3" }
