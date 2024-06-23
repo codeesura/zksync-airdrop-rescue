@@ -105,5 +105,3 @@ Contributions, issues, and feature requests are welcome! Check the [issues page]
 ## Contact
 
 ArmutBey - [@codeesura](https://twitter.com/codeesura) - codeesura@gmail.com
-
-Project Link: [https://github.com/codeesura/zksync-airdrop-rescue](https://github.com/yourusername/zksync-airdrop-rescue)
